@@ -1,0 +1,9 @@
+D:\Code\C#\Winform\Git_QLSV\QLSV_3Layer\bin\Debug\QLSV_3Layer.exe.config
+D:\Code\C#\Winform\Git_QLSV\QLSV_3Layer\bin\Debug\QLSV_3Layer.exe
+D:\Code\C#\Winform\Git_QLSV\QLSV_3Layer\bin\Debug\QLSV_3Layer.pdb
+D:\Code\C#\Winform\Git_QLSV\QLSV_3Layer\obj\Debug\QLSV_3Layer.csprojAssemblyReference.cache
+D:\Code\C#\Winform\Git_QLSV\QLSV_3Layer\obj\Debug\QLSV_3Layer.Properties.Resources.resources
+D:\Code\C#\Winform\Git_QLSV\QLSV_3Layer\obj\Debug\QLSV_3Layer.csproj.GenerateResource.cache
+D:\Code\C#\Winform\Git_QLSV\QLSV_3Layer\obj\Debug\QLSV_3Layer.csproj.CoreCompileInputs.cache
+D:\Code\C#\Winform\Git_QLSV\QLSV_3Layer\obj\Debug\QLSV_3Layer.exe
+D:\Code\C#\Winform\Git_QLSV\QLSV_3Layer\obj\Debug\QLSV_3Layer.pdb

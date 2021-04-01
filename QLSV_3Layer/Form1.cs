@@ -15,6 +15,8 @@ namespace QLSV_3Layer
         public Form1()
         {
             InitializeComponent();
+            dataGridView1.DataSource = CSDL_OOP.Instance.getAllStudent();
         }
+
     }
 }
